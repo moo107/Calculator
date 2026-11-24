@@ -1,0 +1,14 @@
+{
+    "name": "majai/calculator",
+    "autoload": {
+        "psr-4": {
+            "Project_calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed"
+        }
+    ],
+    "require": {}
+}
